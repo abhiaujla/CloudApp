@@ -1,0 +1,16 @@
+C:\Users\harsh\Desktop\Freelancer\polygone97\Application Task 1\AT1.Implementation\bin\Debug\AT1.Implementation.dll
+C:\Users\harsh\Desktop\Freelancer\polygone97\Application Task 1\AT1.Implementation\bin\Debug\AT1.Implementation.pdb
+C:\Users\harsh\Desktop\Freelancer\polygone97\Application Task 1\AT1.Implementation\bin\Debug\AT1.dll
+C:\Users\harsh\Desktop\Freelancer\polygone97\Application Task 1\AT1.Implementation\obj\Debug\AT1.Implementation.csprojAssemblyReference.cache
+C:\Users\harsh\Desktop\Freelancer\polygone97\Application Task 1\AT1.Implementation\obj\Debug\AT1.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\harsh\Desktop\Freelancer\polygone97\Application Task 1\AT1.Implementation\obj\Debug\AT1.Implementation.csproj.CopyComplete
+C:\Users\harsh\Desktop\Freelancer\polygone97\Application Task 1\AT1.Implementation\obj\Debug\AT1.Implementation.dll
+C:\Users\harsh\Desktop\Freelancer\polygone97\Application Task 1\AT1.Implementation\obj\Debug\AT1.Implementation.pdb
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\service application\AT1.Implementation\bin\Debug\AT1.Implementation.dll
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\service application\AT1.Implementation\bin\Debug\AT1.Implementation.pdb
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\service application\AT1.Implementation\bin\Debug\AT1.dll
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\service application\AT1.Implementation\obj\Debug\AT1.Implementation.csprojAssemblyReference.cache
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\service application\AT1.Implementation\obj\Debug\AT1.Implementation.csproj.CoreCompileInputs.cache
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\service application\AT1.Implementation\obj\Debug\AT1.Implementation.csproj.CopyComplete
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\service application\AT1.Implementation\obj\Debug\AT1.Implementation.dll
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\service application\AT1.Implementation\obj\Debug\AT1.Implementation.pdb

@@ -1,0 +1,11 @@
+C:\Users\harsh\Desktop\Freelancer\polygone97\Application Task 1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\harsh\Desktop\Freelancer\polygone97\Application Task 1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\harsh\Desktop\Freelancer\polygone97\Application Task 1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\harsh\Desktop\Freelancer\polygone97\Application Task 1\WcfServiceLibrary1\bin\Debug\AT1.Implementation.dll
+C:\Users\harsh\Desktop\Freelancer\polygone97\Application Task 1\WcfServiceLibrary1\bin\Debug\AT1.dll
+C:\Users\harsh\Desktop\Freelancer\polygone97\Application Task 1\WcfServiceLibrary1\bin\Debug\AT1.Implementation.pdb
+C:\Users\harsh\Desktop\Freelancer\polygone97\Application Task 1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojAssemblyReference.cache
+C:\Users\harsh\Desktop\Freelancer\polygone97\Application Task 1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\harsh\Desktop\Freelancer\polygone97\Application Task 1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CopyComplete
+C:\Users\harsh\Desktop\Freelancer\polygone97\Application Task 1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\harsh\Desktop\Freelancer\polygone97\Application Task 1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
