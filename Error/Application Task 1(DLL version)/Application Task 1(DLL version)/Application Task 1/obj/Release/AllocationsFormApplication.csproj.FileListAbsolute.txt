@@ -1,0 +1,27 @@
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\application task 1\Application Task 1\bin\Release\AllocationsApplication.exe.config
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\application task 1\Application Task 1\bin\Release\AllocationsApplication.exe
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\application task 1\Application Task 1\bin\Release\AllocationsApplication.pdb
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\application task 1\Application Task 1\bin\Release\AT1.dll
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\application task 1\Application Task 1\obj\Release\AllocationsFormApplication.csprojAssemblyReference.cache
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\application task 1\Application Task 1\obj\Release\AllocationsApplication.AboutBox.resources
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\application task 1\Application Task 1\obj\Release\AllocationsApplication.AllocationsViewerForm.resources
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\application task 1\Application Task 1\obj\Release\AllocationsApplication.ErrorsViewer.resources
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\application task 1\Application Task 1\obj\Release\AllocationsApplication.Properties.Resources.resources
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\application task 1\Application Task 1\obj\Release\AllocationsFormApplication.csproj.GenerateResource.cache
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\application task 1\Application Task 1\obj\Release\AllocationsFormApplication.csproj.CoreCompileInputs.cache
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\application task 1\Application Task 1\obj\Release\AllocationsFormApplication.csproj.CopyComplete
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\application task 1\Application Task 1\obj\Release\AllocationsApplication.exe
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\application task 1\Application Task 1\obj\Release\AllocationsApplication.pdb
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\error\application task 1(dll version)\application task 1(dll version)\Application Task 1\bin\Release\AllocationsApplication.exe.config
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\error\application task 1(dll version)\application task 1(dll version)\Application Task 1\bin\Release\AllocationsApplication.exe
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\error\application task 1(dll version)\application task 1(dll version)\Application Task 1\bin\Release\AllocationsApplication.pdb
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\error\application task 1(dll version)\application task 1(dll version)\Application Task 1\bin\Release\AT1.dll
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\error\application task 1(dll version)\application task 1(dll version)\Application Task 1\obj\Release\AllocationsApplication.AboutBox.resources
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\error\application task 1(dll version)\application task 1(dll version)\Application Task 1\obj\Release\AllocationsApplication.AllocationsViewerForm.resources
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\error\application task 1(dll version)\application task 1(dll version)\Application Task 1\obj\Release\AllocationsApplication.ErrorsViewer.resources
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\error\application task 1(dll version)\application task 1(dll version)\Application Task 1\obj\Release\AllocationsApplication.Properties.Resources.resources
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\error\application task 1(dll version)\application task 1(dll version)\Application Task 1\obj\Release\AllocationsFormApplication.csproj.GenerateResource.cache
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\error\application task 1(dll version)\application task 1(dll version)\Application Task 1\obj\Release\AllocationsFormApplication.csproj.CoreCompileInputs.cache
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\error\application task 1(dll version)\application task 1(dll version)\Application Task 1\obj\Release\AllocationsFormApplication.csproj.CopyComplete
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\error\application task 1(dll version)\application task 1(dll version)\Application Task 1\obj\Release\AllocationsApplication.exe
+\\asauj.homes.deakin.edu.au\my-home\userdata\desktop\error\application task 1(dll version)\application task 1(dll version)\Application Task 1\obj\Release\AllocationsApplication.pdb
